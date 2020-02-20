@@ -62,7 +62,7 @@ aws cloudformation deploy \
 
 ## Authors
 ---
-* Scott Schmidt @sjschmidt44 - [1Strategy](https://www.1strategy.com)
+* Scott Schmidt - [1Strategy](https://www.1strategy.com)
 
 <br />
 
